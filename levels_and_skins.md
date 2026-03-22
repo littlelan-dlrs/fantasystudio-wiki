@@ -27,7 +27,9 @@
 
 <font size="5">选关界面</font>
 
-![选关界面截图](menu_ui.png)
+![选关界面截图](media\menu_ui.png)
+
+*选关界面截图*
 
 > <font size="5">皮肤</font>
 

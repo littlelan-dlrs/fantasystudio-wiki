@@ -4,8 +4,8 @@
   * [关卡和皮肤](levels_and_skins.md)
   * [成就系统](achievements.md)
   * [音符系统](note_system.md)
-  * [限时活动](activities.md)
-  * [历代版本](versions.md)
+  * [历代活动](activities.md)
+  * [版本更迭](versions.md)
   * [你知道吗](do_you_know.md)
 * 其他文档
   * [用户协议](user_agreement.md)
