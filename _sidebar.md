@@ -6,6 +6,7 @@
   * [音符系统](note_system.md)
   * [历代活动](activities.md)
   * [版本更迭](versions.md)
+  * [游戏下载](download.md)
   * [你知道吗](do_you_know.md)
 * 其他文档
   * [用户协议](user_agreement.md)
