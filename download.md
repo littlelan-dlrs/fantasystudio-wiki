@@ -10,11 +10,11 @@
 
 请点击相应按钮下载安装包或跳转到指定链接：
 
-<a href="downloads/FantasyLine_Windows_release_2.0.0.0.zip" download style="background-color: #98c379; color: white; padding: 10px 20px; text-decoration: none; border-radius: 6px; display: inline-block; margin: 5px;">
+<a href="downloads/FantasyLine 2.0.0 (Windows release).zip" download style="background-color: #98c379; color: white; padding: 10px 20px; text-decoration: none; border-radius: 6px; display: inline-block; margin: 5px;">
   Fantasy Line for Windows (ZIP)
 </a>
 
-<a href="downloads/FantasyLine_Android_release_2.0.0.0.APK" download style="background-color: #98c379; color: white; padding: 10px 20px; text-decoration: none; border-radius: 6px; display: inline-block; margin: 5px;">
+<a href="downloads/FantasyLine 2.0.0 (Android release).APK" download style="background-color: #98c379; color: white; padding: 10px 20px; text-decoration: none; border-radius: 6px; display: inline-block; margin: 5px;">
   Fantasy Line for Android (APK)
 </a>
 
