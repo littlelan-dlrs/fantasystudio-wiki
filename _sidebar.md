@@ -4,6 +4,7 @@
   * [关卡和皮肤](levels_and_skins.md)
   * [成就系统](achievements.md)
   * [音符系统](note_system.md)
+  * [游戏界面](game_ui.md)
   * [历代活动](activities.md)
   * [版本更迭](versions.md)
   * [游戏下载](download.md)
