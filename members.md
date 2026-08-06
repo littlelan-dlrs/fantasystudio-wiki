@@ -1,5 +1,7 @@
 <font size="7" style="line-height: 1.2;">制作成员</font>
 
+*排名不分先后*
+
 > <font size="5">主制作</font>
 
 爱玩音游的小蓝
@@ -34,6 +36,24 @@ Gmycbddj
 
 MAX_TB
 
+endless202
+
+ANan1145
+
+DL夏夜
+
+Earth Studio
+
+lnchestn
+
+暮暮鱼
+
+暖风qoq
+
+一叶孤舟ALonelyBoat
+
+一只空橘呀_
+
 > <font size="5">原创音乐</font>
 
 DP早期智人
@@ -45,8 +65,6 @@ DP早期智人
 Lake Studio
 
 > <font size="5">其他支持</font>
-
-杨哥我来了_Office
 
 幻影の刄
 
