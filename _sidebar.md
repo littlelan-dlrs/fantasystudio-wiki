@@ -10,6 +10,7 @@
   * [游戏下载](download.md)
   * [你知道吗](do_you_know.md)
 * 其他文档
-  * [用户协议](user_agreement.md)
+  * [用户协议](terms_of_service.md)
   * [玩家交流群群员守则](group_rule.md)
+  * [内部人员守则](member_agreement.md)
   * [版权声明](copyright.md)
