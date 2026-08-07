@@ -10,6 +10,8 @@
 
 版本**2.0.0**已发布！（二周年快乐！更新关卡：北极星、造物主；新增周赛；重做UI界面）
 
+![FantasyLine版本横幅](media\game_banner.png)
+
 > <font size="5">关于我们</font>
 
 Fantasy Studio（幻想工作室）是由爱玩音游的小蓝创立的舞线同人游戏工作室，由十余位舞线爱好者组成。
