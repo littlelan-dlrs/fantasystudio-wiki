@@ -40,13 +40,13 @@ The Game is a fan-made rhythm game inspired by Dance Line. The copyright of its 
 
 5. You may post the following content on public platforms:
 
-① Screenshots and recordings (including edited or unedited versions) of gameplay, game data, and game processes;
+   ① Screenshots and recordings (including edited or unedited versions) of gameplay, game data, and game processes;
 
-② Audio resources of music and sound effects recorded from the Game;
+   ② Audio resources of music and sound effects recorded from the Game;
 
-③ Introductions to gameplay and level walkthroughs;
+   ③ Introductions to gameplay and level walkthroughs;
 
-④ Other content that does not violate this agreement and complies with local laws and regulations.
+   ④ Other content that does not violate this agreement and complies with local laws and regulations.
 
 6. You are entitled to the gameplay services and account system services provided by the Game.
 
@@ -70,15 +70,15 @@ The Game is a fan-made rhythm game inspired by Dance Line. The copyright of its 
 
 3. If you are unable to log in to your account or have been banned, it may be due to one of the following reasons:
 
-① You have exploited game vulnerabilities to disrupt game balance;
+   ① You have exploited game vulnerabilities to disrupt game balance;
 
-② You have disclosed your account password to others or posted it on public platforms;
+   ② You have disclosed your account password to others or posted it on public platforms;
 
-③ The game system or server has encountered issues (in which case the player bears no responsibility; we will notify you as soon as possible and work to fix the problem);
+   ③ The game system or server has encountered issues (in which case the player bears no responsibility; we will notify you as soon as possible and work to fix the problem);
 
-④ You have voluntarily requested account deletion;
+   ④ You have voluntarily requested account deletion;
 
-⑤ You have violated other provisions of this agreement.
+   ⑤ You have violated other provisions of this agreement.
 
 4. We reserve the right to provide reasonable explanations regarding the account system and game servers.
 

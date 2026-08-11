@@ -2,7 +2,7 @@
 
 <font size="4.8">欢迎来到Fantasy Studio官方文档站！在这里，您可以查询到Fantasy Studio和其作品的相关信息。</font>
 
-<font size="4.8">Welcome to the Fantasy Studio official documentation site! Here you can find information about Fantasy Studio and its works.</font>
+Welcome to the Fantasy Studio official documentation site! Here you can find information about Fantasy Studio and its works.
 
 请点击左侧导航栏以查看更多信息！
 
@@ -24,11 +24,11 @@ Version 2.0.0 is now live! (Happy 2nd Anniversary! New levels: The Polaris, The 
 
 Fantasy Studio（幻想工作室）是由爱玩音游的小蓝创立的舞线同人游戏工作室，由十余位舞线爱好者组成。
 
-Fantasy Studio is a fan-made Dance Line game studio founded by 爱玩音游的小蓝 (Blue who loves rhythm games), consisting of over a dozen Dance Line enthusiasts.
-
 Fantasy Line（简称FL）是由Fantasy Studio开发和运营的以《跳舞的线》为蓝本制作的同人饭制游戏。
 其为纯原创型关卡合集，内部存放“爱玩音游的小蓝”的关卡。
 类似于原版舞线的玩法，玩家需要通过音乐节奏点击屏幕让线转弯，躲避障碍物收集钻石与皇冠并到达终点。
+
+Fantasy Studio is a fan-made Dance Line game studio founded by LittleLanDLRS, consisting of over a dozen Dance Line enthusiasts.
 
 Fantasy Line (FL) is a fan-made rhythm game developed and operated by Fantasy Studio, inspired by Dance Line.
 It is a collection of original levels, featuring levels created by LittleLanDLRS.
@@ -38,7 +38,7 @@ Similar to the original Dance Line gameplay, players must tap to the rhythm of t
 
 您可以通过以下渠道了解Fantasy Studio的更多信息。*（点击按钮跳转到对应界面）*
 
-You can learn more about Fantasy Studio through the following channels. (Click the buttons below to jump to the corresponding page)
+You can learn more about Fantasy Studio through the following channels. *(Click the buttons below to jump to the corresponding page)*
 
 <font size="4.6">官方交流群 Official QQ Groups：</font>
 
