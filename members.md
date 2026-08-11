@@ -8,21 +8,19 @@
 
 > <font size="5">技术支持</font>
 
-风竹_Bamboo
-
 Max冰焰
+
+风竹Bamboo
 
 > <font size="5">发行</font>
 
-少语Shoiyu
+箖语Linyuぃ
 
-Mringer
+Hatcat
 
 DRWinterovo
 
-_Hatcat_
-
-> <font size="5">游戏测试</font>
+> <font size="5">内部测试</font>
 
 CXY-辰
 
@@ -32,9 +30,11 @@ Gmycbddj
 
 我叫狗东溪
 
-小阳解说MC
-
 MAX_TB
+
+赤霜ChillFrost
+
+小阳解说MC
 
 endless202
 

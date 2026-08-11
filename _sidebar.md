@@ -1,4 +1,4 @@
-* [首页](/)
+* [首页 Home](/)
 * 关于Fantasy Line
   * [制作人员](members.md)
   * [关卡和皮肤](levels_and_skins.md)
@@ -7,10 +7,11 @@
   * [游戏界面](game_ui.md)
   * [历代活动](activities.md)
   * [版本更迭](versions.md)
-  * [游戏下载](download.md)
+  * [游戏下载 Downloads](download.md)
   * [你知道吗](do_you_know.md)
 * 其他文档
   * [用户协议](terms_of_service.md)
+  * [Terms of Service](terms_of_service_en.md)
   * [玩家交流群群员守则](group_rule.md)
   * [内部人员守则](member_agreement.md)
   * [版权声明](copyright.md)
