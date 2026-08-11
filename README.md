@@ -14,7 +14,7 @@ Please click the navigation bar on the left to explore more!
 
 > <font size="5">公告 Announcements</font>
 
-版本**2.0.0**已发布！（二周年快乐！更新关卡：北极星、造物主；新增周赛；重做UI界面）
+版本**2.0.0**即将发布！（二周年快乐！更新关卡：北极星、造物主；新增周赛；重做UI界面）
 
 Version 2.0.0 is now live! (Happy 2nd Anniversary! New levels: The Polaris, The Demiurge; Added Weekly Race; UI overhaul)
 
