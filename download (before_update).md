@@ -12,17 +12,7 @@
 
 Please click the corresponding button below to download the installation package or visit the designated link.
 
-<a href="https://github.com/littlelan-dlrs/fl-download-packages/releases/download/FL-2.0.0-release/FantasyLine.2.0.0.Windows.release.zip" download style="background-color: #98c379; color: white; padding: 10px 20px; text-decoration: none; border-radius: 6px; display: inline-block; margin: 5px;">
-  Fantasy Line for Windows (ZIP)
-</a>
-
-<a href="https://github.com/littlelan-dlrs/fl-download-packages/releases/download/FL-2.0.0-release/FantasyLine.2.0.0.Android.release.APK" download style="background-color: #98c379; color: white; padding: 10px 20px; text-decoration: none; border-radius: 6px; display: inline-block; margin: 5px;">
-  Fantasy Line for Android (APK)
-</a>
-
-<a href="https://testflight.apple.com/join/FJqVBrXA" target="_blank" rel="noopener noreferrer" style="background-color: #98c379; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px; cursor: pointer;">
-  Fantasy Line for iOS (TestFlight)
-</a>
+*（2026年8月12日15:00起开放下载  Available from Aug 12, 2026, 15:00 UTC+8）*
 
 **说明 NOTICE：**
 
